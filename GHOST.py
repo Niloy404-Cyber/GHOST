@@ -1,3 +1,7 @@
+# Encrypted by niloy
+# Coded by niloy 
+# FB : NILOY.VAU.6
+
 niloyvau=(
 "NILOY-VAU","NILOY-VAU","NILOY-VAU","NILOY-VAU",
 "NILOY-VAU","NILOY-VAU","NILOY-VAU","NILOY-VAU",
